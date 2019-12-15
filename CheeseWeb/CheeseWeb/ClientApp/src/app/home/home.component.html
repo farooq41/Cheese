@@ -1,0 +1,59 @@
+<div class="container">
+  <div class="row">
+    <a href="#" class="btn btn-info btn-lg">
+      <span class="glyphicon glyphicon-plus-sign"></span> Create Cheese
+    </a>
+  </div>
+</div>
+
+<div class="container">
+  <div *ngFor="let cheese of cheeseCollection">
+
+    <div class="card promoting-card" (click)="onCheeseEdit(cheese.id);" style="cursor: pointer; width:22rem;">
+
+      <!-- Card content -->
+      <div class="card-header d-flex flex-row">
+        <div class="row">
+
+        
+        <!-- Content -->
+        <div class="col-md-9">
+    
+          <!-- Title -->
+          <h4 class="card-title font-weight-bold mb-2">{{cheese.name}}</h4>
+          <!-- Subtitle -->
+          <p class="card-text"><i class="far fa-clock pr-2"></i>Created On: {{cheese.createddate | date}}</p>
+    
+        </div>
+        <div class="col-md-2">
+          <button class="btn btn-primary" 
+          (click)="onDeleteCheese(cheese.id)">Delete</button>
+        </div>
+      </div>
+      </div>
+    
+      <!-- Card image -->
+      <div class="view overlay">
+        <img class="card-img-top rounded-0" [src]="cheese.image" alt="Card image cap">
+        <a href="#!">
+          <div class="mask rgba-white-slight"></div>
+        </a>
+      </div>
+    
+      <!-- Card content -->
+      <div class="card-body">
+    
+        <div class="collapse-content">
+    
+          <!-- Text -->
+          <p class="card-text collapse" id="collapseContent">{{cheese.description}}</p>
+          <!-- Button -->
+          <a class="btn btn-flat red-text p-1 my-1 mr-0 mml-1 collapsed" data-toggle="collapse" href="#collapseContent" aria-expanded="false" aria-controls="collapseContent"></a>
+    
+        </div>
+    
+      </div>
+    
+    </div>
+  </div>
+</div>

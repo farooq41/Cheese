@@ -1,0 +1,12 @@
+C:\Code\Cheeseria\CheeseWeb\CheeseModel\bin\Debug\netcoreapp2.2\CheeseModel.deps.json
+C:\Code\Cheeseria\CheeseWeb\CheeseModel\bin\Debug\netcoreapp2.2\CheeseModel.dll
+C:\Code\Cheeseria\CheeseWeb\CheeseModel\bin\Debug\netcoreapp2.2\CheeseModel.pdb
+C:\Code\Cheeseria\CheeseWeb\CheeseModel\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Code\Cheeseria\CheeseWeb\CheeseModel\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Code\Cheeseria\CheeseWeb\CheeseModel\obj\Debug\netcoreapp2.2\CheeseModel.csprojAssemblyReference.cache
+C:\Code\Cheeseria\CheeseWeb\CheeseModel\obj\Debug\netcoreapp2.2\CheeseModel.csproj.CoreCompileInputs.cache
+C:\Code\Cheeseria\CheeseWeb\CheeseModel\obj\Debug\netcoreapp2.2\CheeseModel.AssemblyInfoInputs.cache
+C:\Code\Cheeseria\CheeseWeb\CheeseModel\obj\Debug\netcoreapp2.2\CheeseModel.AssemblyInfo.cs
+C:\Code\Cheeseria\CheeseWeb\CheeseModel\obj\Debug\netcoreapp2.2\CheeseModel.csproj.CopyComplete
+C:\Code\Cheeseria\CheeseWeb\CheeseModel\obj\Debug\netcoreapp2.2\CheeseModel.dll
+C:\Code\Cheeseria\CheeseWeb\CheeseModel\obj\Debug\netcoreapp2.2\CheeseModel.pdb

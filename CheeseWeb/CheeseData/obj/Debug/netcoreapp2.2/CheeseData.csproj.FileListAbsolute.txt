@@ -1,0 +1,16 @@
+C:\Code\Cheeseria\CheeseWeb\CheeseData\bin\Debug\netcoreapp2.2\CheeseData.deps.json
+C:\Code\Cheeseria\CheeseWeb\CheeseData\bin\Debug\netcoreapp2.2\CheeseData.dll
+C:\Code\Cheeseria\CheeseWeb\CheeseData\bin\Debug\netcoreapp2.2\CheeseData.pdb
+C:\Code\Cheeseria\CheeseWeb\CheeseData\bin\Debug\netcoreapp2.2\CheeseModel.dll
+C:\Code\Cheeseria\CheeseWeb\CheeseData\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Code\Cheeseria\CheeseWeb\CheeseData\bin\Debug\netcoreapp2.2\CheeseModel.pdb
+C:\Code\Cheeseria\CheeseWeb\CheeseData\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Code\Cheeseria\CheeseWeb\CheeseData\obj\Debug\netcoreapp2.2\CheeseData.csprojAssemblyReference.cache
+C:\Code\Cheeseria\CheeseWeb\CheeseData\obj\Debug\netcoreapp2.2\CheeseData.csproj.CoreCompileInputs.cache
+C:\Code\Cheeseria\CheeseWeb\CheeseData\obj\Debug\netcoreapp2.2\CheeseData.AssemblyInfoInputs.cache
+C:\Code\Cheeseria\CheeseWeb\CheeseData\obj\Debug\netcoreapp2.2\CheeseData.AssemblyInfo.cs
+C:\Code\Cheeseria\CheeseWeb\CheeseData\obj\Debug\netcoreapp2.2\CheeseData.csproj.CopyComplete
+C:\Code\Cheeseria\CheeseWeb\CheeseData\obj\Debug\netcoreapp2.2\CheeseData.dll
+C:\Code\Cheeseria\CheeseWeb\CheeseData\obj\Debug\netcoreapp2.2\CheeseData.pdb
+C:\Code\Cheeseria\CheeseWeb\CheeseData\bin\Debug\netcoreapp2.2\CheeseData.runtimeconfig.json
+C:\Code\Cheeseria\CheeseWeb\CheeseData\bin\Debug\netcoreapp2.2\CheeseData.runtimeconfig.dev.json
